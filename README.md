@@ -37,7 +37,7 @@
 - [Troubleshooting](#troubleshooting)
    * [Encryption Error](#encryption-error)
 - [FAQ - Frequently asked questions](#faq---frequently-asked-questions)
-   * [**Q: Full MacOS / Linux Support?**](#q-full-macos---linux-support)
+   * [**Q: Full MacOS / Linux Support?**](#q-full-macos--linux-support)
    * [**Q: How secure is the encrypted data within a game, and what measures can enhance its security?**](#q-how-secure-is-the-encrypted-data-within-a-game-and-what-measures-can-enhance-its-security)
 - [Limited Editor Support for Linux and MacOS](#limited-editor-support-for-linux-and-macos)
 - [Support](#support)

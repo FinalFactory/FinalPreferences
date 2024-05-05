@@ -45,7 +45,7 @@
 
 <!-- TOC end -->
 
-![Final Factory Logo](https://static.wixstatic.com/media/880a29_adf69d1f5217420c946012af55973e12~mv2.png)  ![Final Preferences Logo](https://static.wixstatic.com/media/880a29_cacc0fcbd8634d0ca420b52813621ddb~mv2.png)
+![Final Factory Logo](https://static.wixstatic.com/media/880a29_adf69d1f5217420c946012af55973e12~mv2.png)  ![Final Preferencs Logo](https://static.wixstatic.com/media/880a29_cacc0fcbd8634d0ca420b52813621ddb~mv2.png)
 
 [Final Preferences](https://u3d.as/3hny) is an advanced Unity asset created by Final Factory, designed to enhance and extend the management of preferences in Unity projects. It builds upon the existing PlayerPrefs and EditorPrefs frameworks, introducing additional functionalities such as ProjectRuntime and ProjectDevelopment scopes, encryption for sensitive data, and a sophisticated editor UI for managing preferences in real-time. This documentation provides detailed guidance on the setup, usage, features, and API of Final Preferences to ensure successful integration and utilization in your Unity projects.
 
@@ -250,6 +250,9 @@ These examples highlight the practical application of preference management with
 
 ## Samples
 
+You can find the samples for Final Preferences in the Unity Package Manager. Simply navigate to the Final Preferences section and look under the 'Samples' category to access and explore various sample implementations and configurations.
+
+![Samples](https://static.wixstatic.com/media/880a29_28aea4d5b766446fa1974b8c34a6d00c~mv2.png)
 ### Encrypted Money Value
 
 This example demonstrates how to utilize the Final Preferences asset for securely managing and storing player coin totals using encrypted preferences. It shows how to implement and modify encrypted coin values in real time, both through gameplay controls and via the Preferences Editor.
